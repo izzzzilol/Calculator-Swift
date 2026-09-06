@@ -36,9 +36,6 @@ Example:
 
 Результат: 15.0
 
-## Author
-
-izzzzilol
 
 
 
